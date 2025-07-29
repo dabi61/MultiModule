@@ -1,5 +1,8 @@
 @file:Suppress("UnstableApiUsage")
 
+include(":build-logic:convention")
+
+
 include(":baselineprofile")
 
 
